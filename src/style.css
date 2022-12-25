@@ -1,0 +1,42 @@
+/*------------------------------------------------------------------
+[Adityawarman Dewa Putra] [SMKN 1 JAKARTA] 
+
+Copyright   : Dewa Programming
+
+Project		:	Portfolio
+Dibuat	    :	30/08/2020
+Instagram   :   @741_dewa -- @all_dewa_works
+-------------------------------------------------------------------*/
+
+
+/*-------------------------------------------------------------------
+[Judul]
+
+0. Default
+1. Navigasi
+2. Home
+-------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------
+[NOTE]
+IZIN TERLEBIH DAHULU. TERIMAKASIH :)
+-------------------------------------------------------------------*/
+
+
+
+/*-------------------------------------------------------------------
+[0. Default]
+*------------------------------------------------------------------*/
+@font-face {
+    font-family: 'Montserrat';
+    src: url('../public/fonts/Montserrat.woff2');
+}
+
+@font-face {
+    font-family: 'Poppins';
+    src: url('../public/fonts/Poppins.woff2');
+}
+
+body {
+    font-family: 'Montserrat';
+}
