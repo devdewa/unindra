@@ -1,13 +1,13 @@
 .login-box-left {
-    width: 800px;
     height: 100vh;
     background: #C1EAFF;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .login-box-left img {
     width: 400px;
 }
 
+input {
+    height: 35px;
+    font-size: 14px !important;
+}
