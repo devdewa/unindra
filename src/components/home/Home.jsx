@@ -1,4 +1,4 @@
-import './login.css';
+import './home.css';
 
 function Login() {
     return (
@@ -14,9 +14,6 @@ function Login() {
             </div>
             <div class="mb-3 row">
               <input type="text" className="form-control px-2 w-100" placeholder="Password"/>
-            </div>
-            <div className="mt-5 d-flex m-auto justify-content-center">
-              <button className="btn btn-primary px-4" type="button">Login</button>
             </div>
           </form>
         </div>
